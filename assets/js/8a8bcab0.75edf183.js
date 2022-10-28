@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpmri_documentation=self.webpackChunkpmri_documentation||[]).push([[2959],{4661:function(a){a.exports=JSON.parse('{"label":"hola","permalink":"/docs-pmri/blog/tags/hola","allTagsPath":"/docs-pmri/blog/tags","count":1}')}}]);
